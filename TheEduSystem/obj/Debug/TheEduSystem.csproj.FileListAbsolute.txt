@@ -13,3 +13,10 @@ C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\obj\De
 C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.exe.config
 C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.exe
 C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.pdb
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\bin\Debug\TheEduSystem.exe.config
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\bin\Debug\TheEduSystem.exe
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\bin\Debug\TheEduSystem.pdb
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\obj\Debug\TheEduSystem.csproj.AssemblyReference.cache
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\obj\Debug\TheEduSystem.csproj.CoreCompileInputs.cache
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\obj\Debug\TheEduSystem.exe
+C:\Users\kenot\source\repos\TheEduSystem\EducationProject\TheEduSystem\obj\Debug\TheEduSystem.pdb
