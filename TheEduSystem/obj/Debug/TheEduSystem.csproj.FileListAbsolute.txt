@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.exe.config
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.exe
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.pdb
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.exe
+C:\Users\student\source\repos\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.pdb
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.csproj.AssemblyReference.cache
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.csproj.CoreCompileInputs.cache
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.exe
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\obj\Debug\TheEduSystem.pdb
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.exe.config
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.exe
+C:\Users\kenot\OneDrive\Рабочий стол\TheEduSystem\TheEduSystem\bin\Debug\TheEduSystem.pdb
